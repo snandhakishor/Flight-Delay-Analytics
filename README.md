@@ -3,7 +3,7 @@
 This project analyzes flight delay patterns across airlines, airports, and time periods.
 
  **Detailed analysis and insights** are documented in:
-- `docs/Flight_Delay_Analytics_Report.pdf`
+- `docs/Project Explanations.pdf`
 
 ### Summary
 - Focuses on delay frequency vs delay duration
